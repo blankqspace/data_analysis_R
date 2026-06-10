@@ -1,2 +1,4 @@
-# data_analysis_R_homeworks
-repository with homework notebooks
+# data_analysis_R
+repository with homework notebooks and final project 
+
+
